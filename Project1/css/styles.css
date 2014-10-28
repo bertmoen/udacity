@@ -1,0 +1,33 @@
+/* * {
+    border: 1px solid red !important;
+}*/
+
+
+body {
+  font-family: 'Lato', sans-serif;
+  color: #747704  !important;
+  font-weight: 300;
+}
+hr {
+  height: 3px !important;
+  background-color: #747704;
+  color: #747704;
+}
+
+.text-muted {
+  color: #BCBBBB  !important;
+}
+.text-thin {
+  font-weight: 100;
+}
+.title-super {
+  font-size: 40px;
+}
+.title-logo {
+  margin-top: 20px;
+  max-width: 80px;
+  max-height: 80px;
+}
+.small-margins {
+  margin: 2px !important;
+}
